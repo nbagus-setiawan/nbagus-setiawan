@@ -118,8 +118,8 @@
     <img src="https://github-stats-extended.vercel.app/api?username=nbagus-setiawan&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nbagus-setiawan&theme=radical">
-    <img src="https://streak-stats.demolab.com/?user=nbagus-setiawan&theme=default" alt="GitHub Streak" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=nbagus-setiawan&theme=radical">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nbagus-setiawan&theme=default" alt="GitHub Streak" height="165"/>
   </picture>
 </p>
 
