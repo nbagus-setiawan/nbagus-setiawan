@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Nanda Bagus Setiawan Banner" width="100%"/>
+  <img src="assets/og-thumbnail.jpg" alt="Nanda Bagus Setiawan Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hello world, I'm Nanda Bagus Setiawan</h1>
