@@ -12,9 +12,13 @@
 <br>
 
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/rocket-takeoff.svg" width="18" height="18"/> Currently working on **various web & software projects**
+<br>
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/book.svg" width="18" height="18"/> Currently learning **new frameworks & tools**
+<br>
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/people.svg" width="18" height="18"/> Looking to collaborate on **open source projects**
+<br>
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/chat-dots.svg" width="18" height="18"/> Ask me about **JavaScript, PHP, Python, Java, atau C++**
+<br>
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope.svg" width="18" height="18"/> Reach me: **Nandabagus913@gmail.com**
 
 <br>
