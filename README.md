@@ -74,7 +74,7 @@
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=nbagus-setiawan&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbagus-setiawan&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=nbagus-setiawan&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
