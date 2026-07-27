@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/og-thumbnail.jpg" alt="Nanda Bagus Setiawan Banner" width="100%"/>
+  <img src="./assets/banner.jpg" alt="Nanda Bagus Setiawan Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hello world, I'm Nanda Bagus Setiawan</h1>
@@ -11,15 +11,28 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/rocket-takeoff.svg" width="18" height="18"/> Currently working on **various web & software projects**
-<br>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/book.svg" width="18" height="18"/> Currently learning **new frameworks & tools**
-<br>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/people.svg" width="18" height="18"/> Looking to collaborate on **open source projects**
-<br>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/chat-dots.svg" width="18" height="18"/> Ask me about **JavaScript, PHP, Python, Java, atau C++**
-<br>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope.svg" width="18" height="18"/> Reach me: **Nandabagus913@gmail.com**
+<table>
+  <tr>
+    <td width="40" align="center"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/rocket-takeoff.svg" width="20" height="20"/></td>
+    <td>Currently working on <b>various web & software projects</b></td>
+  </tr>
+  <tr>
+    <td width="40" align="center"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/book.svg" width="20" height="20"/></td>
+    <td>Currently learning <b>new frameworks & tools</b></td>
+  </tr>
+  <tr>
+    <td width="40" align="center"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/people.svg" width="20" height="20"/></td>
+    <td>Looking to collaborate on <b>open source projects</b></td>
+  </tr>
+  <tr>
+    <td width="40" align="center"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/chat-dots.svg" width="20" height="20"/></td>
+    <td>Ask me about <b>JavaScript, PHP, Python, Java, atau C++</b></td>
+  </tr>
+  <tr>
+    <td width="40" align="center"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope.svg" width="20" height="20"/></td>
+    <td>Reach me: <b>Nandabagus913@gmail.com</b></td>
+  </tr>
+</table>
 
 <br>
 
@@ -60,12 +73,12 @@
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bar-chart-line.svg" width="24" height="24"/> GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbagus-setiawan&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nbagus-setiawan&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbagus-setiawan&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbagus-setiawan&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nbagus-setiawan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <br>
